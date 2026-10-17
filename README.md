@@ -51,8 +51,8 @@ Find the input that makes `check()` return `1`.
 ```c
 int check(const char *s) {
     const unsigned char k[] = {0x13, 0x37, 0x42};
-    const unsigned char t[] = {89,122,59,110,11,53,82,13,57,85,99,
-                               125,115,117,47,112,94,67,121,26,83};
+    const unsigned char t[] = {89,122,59,39,19,41,44,89,127,85,92,124,
+                               46,94,129,129,120,52,57,22,133,60,37,86};
     if (strlen(s) != sizeof t) return 0;
     for (int i = 0; i < (int)sizeof t; i++)
         if (((s[i] ^ k[i % 3]) + i) != t[i]) return 0;
