@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jeevan 👋
+# whoami: Jeevan
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=620&lines=Cybersecurity+%40+NMAMIT;Building+secure+auth+systems;AI%2FML+Security+%7C+Cloud+Security" alt="typing intro" />
 
@@ -9,12 +9,12 @@
 
 </div>
 
-### 🛡️ Now
+### status
 - B.Tech CSE (Cybersecurity) @ NMAMIT, 2024-2028
 - Working toward **SC-500** (Cloud & AI Security Engineer)
 - Focus: **AI/ML security** and **Azure cloud security**
 
-### 🔬 Featured Work
+### payloads
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -22,7 +22,7 @@
 | [**Dual-Layer Defense**](https://github.com/Jeevannyk/REPO_NAME) | Two-stage AI content safety: regex filtering + LLM semantic analysis | FastAPI, LiteLLM, React |
 | **Network IDS Research** (MAHE-ISAC) | 5.56M+ traffic records, 14 attack classes, SHAP feature selection, CTGAN + SMOTE, **0.7631 Macro-F1**, served via FastAPI | XGBoost, LightGBM, FastAPI |
 
-### 🧰 Stack
+### toolchain
 **Languages** <br>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash" />
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚩 Profile CTF
+### profile CTF
 
 Find the input that makes `check()` return `1`.
 
@@ -58,7 +58,7 @@ echo -n 'FLAG_HERE:your-username' | sha256sum | cut -c1-16
 
 Then [**open a submission issue**](https://github.com/Jeevannyk/Jeevannyk/issues/new?title=ctf:%20PASTE_TOKEN_HERE) with the title `ctf: <token>`. A bot verifies it and updates the board.
 
-#### 🏁 Solvers
+#### solvers
 <!-- CTF:START -->
 _No solvers yet. Be the first._
 <!-- CTF:END -->
