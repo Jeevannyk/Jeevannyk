@@ -10,8 +10,6 @@
 </div>
 
 ### status
-- B.Tech CSE (Cybersecurity) @ NMAMIT, 2024-2028
-- Working toward **SC-500** (Cloud & AI Security Engineer)
 - Focus: **AI/ML security** and **Azure cloud security**
 
 ### payloads
@@ -20,7 +18,17 @@
 |---|---|---|
 | [**Cipher Auth**](https://github.com/Jeevannyk/REPO_NAME) | Passwordless login via dynamic rotating QR codes, OAuth 2.0 / OIDC | Python, FastAPI |
 | [**Dual-Layer Defense**](https://github.com/Jeevannyk/REPO_NAME) | Two-stage AI content safety: regex filtering + LLM semantic analysis | FastAPI, LiteLLM, React |
-| **Network IDS Research** (MAHE-ISAC) | 5.56M+ traffic records, 14 attack classes, SHAP feature selection, CTGAN + SMOTE, **0.7631 Macro-F1**, served via FastAPI | XGBoost, LightGBM, FastAPI |
+
+**Currently exploring:** post-quantum cryptography, home SOC / threat detection, healthcare security systems
+
+### stats
+
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevannyk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" alt="GitHub stats" />
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevannyk&layout=compact&hide_border=true&bg_color=0d1117&title_color=22C55E&text_color=c9d1d9" alt="Top languages" />
+
+<br clear="both" />
+
+<img src="https://streak-stats.demolab.com?user=Jeevannyk&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub streak" />
 
 ### toolchain
 **Languages** <br>
