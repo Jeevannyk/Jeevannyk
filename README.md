@@ -22,10 +22,6 @@
 | [**Dual-Layer Defense**](https://github.com/Jeevannyk/REPO_NAME) | Two-stage AI content safety: regex filtering + LLM semantic analysis | FastAPI, LiteLLM, React |
 | **Network IDS Research** (MAHE-ISAC) | 5.56M+ traffic records, 14 attack classes, SHAP feature selection, CTGAN + SMOTE, **0.7631 Macro-F1**, served via FastAPI | XGBoost, LightGBM, FastAPI |
 
-### 🏆 Achievements
-- 🥈 2nd place, Cybersecurity track, **Srinathon 2.0**
-- 🥉 3rd place, NMAMIT internal CTF
-
 ### 🧰 Stack
 **Languages** <br>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash" />
