@@ -72,12 +72,3 @@ Then [**open a submission issue**](https://github.com/Jeevannyk/Jeevannyk/issues
 <!-- CTF:START -->
 _No solvers yet. Be the first._
 <!-- CTF:END -->
-
----
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevannyk/Jeevannyk/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Jeevannyk/Jeevannyk/output/github-snake.svg" />
-</picture>
-</div>
