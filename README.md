@@ -23,12 +23,14 @@
 
 ### stats
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevannyk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" alt="GitHub stats" />
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevannyk&layout=compact&hide_border=true&bg_color=0d1117&title_color=22C55E&text_color=c9d1d9" alt="Top languages" />
+<div align="center">
 
-<br clear="both" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeevannyk&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22C55E&icon_color=22C55E" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevannyk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22C55E" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Jeevannyk&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Jeevannyk&hide_border=true&theme=tokyonight&background=0d1117&ring=22C55E&fire=22C55E" alt="GitHub streak" />
+
+</div>
 
 ### toolchain
 **Languages** <br>
